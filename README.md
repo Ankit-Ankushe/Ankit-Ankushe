@@ -10,7 +10,8 @@
 - 📫 How to reach me **ankitankushe@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive)
-<hr/>
+<br/>
+<br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ankitankushe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankitankushe" height="30" width="40" /></a>
