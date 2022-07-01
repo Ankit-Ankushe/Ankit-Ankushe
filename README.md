@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankit Ankushe</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-
+<br/>
 - 🔭 I’m currently working on [Asos-clone](https://github.com/OfficialSiddharthBisht/asos-clone-react-js)
 
 - 🌱 I’m currently learning **MERN Stack**
@@ -10,7 +10,6 @@
 - 📫 How to reach me **ankitankushe@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive)
-<hr/>
 <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
