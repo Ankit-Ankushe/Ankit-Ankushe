@@ -20,6 +20,7 @@
 <a href="https://twitter.com/ankitankushe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankitankushe" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ankit-ankushe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit-ankushe" height="30" width="40" /></a>
 <a href="https://fb.com/ankit ankushe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ankit ankushe" height="30" width="40" /></a>
+<a href="https://instagram.com/ankit_ankushe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankit_ankushe" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
