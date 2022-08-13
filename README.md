@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ankit Ankushe</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <br/>
-<img src='https://c.tenor.com/kyeNs4DnuW0AAAAC/dev_animado.gif'/>
+<div styles="display:"flex"">
+<div>
+<img width=100px src='https://c.tenor.com/kyeNs4DnuW0AAAAC/dev_animado.gif'/>
+</div>
+<div>
 - 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://ankit-ankushe-portfolio.vercel.app/](https://ankit-ankushe-portfolio.vercel.app/)
@@ -9,6 +13,8 @@
 - 📫 How to reach me **ankitankushe@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive)
+</div>
+</div>
 <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
