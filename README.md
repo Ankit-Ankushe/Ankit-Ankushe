@@ -3,7 +3,7 @@
 <br/>
 <div styles="display:"flex"">
 <div>
-<img width=100px src='https://c.tenor.com/kyeNs4DnuW0AAAAC/dev_animado.gif'/>
+<img width=400px src='https://c.tenor.com/kyeNs4DnuW0AAAAC/dev_animado.gif'/>
 </div>
 <div>
 - 🌱 I’m currently learning **MERN Stack**
