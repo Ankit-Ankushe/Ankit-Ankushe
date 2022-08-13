@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankit Ankushe</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <br/>
-<div styles="display:"flex"">
+<div styles="display:flex">
 <div>
 <img width=400px src='https://c.tenor.com/kyeNs4DnuW0AAAAC/dev_animado.gif'/>
 </div>
