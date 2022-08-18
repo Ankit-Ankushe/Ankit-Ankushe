@@ -36,11 +36,8 @@ class Skills extends SoftwareDeveloper {
 <h2 align="left">Connect with me:</h2>
 <p align="left" style='display:flex;gap:10px'>
   <a href="https://www.linkedin.com/in/ankit-ankushe/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-  
   <a title="ankitankushe@gmail.com" href="mailto:ankitankushe@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail-me" /></a>
-  
   <a href="https://wa.me/917822832282" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp-me" /></a>
-  
   <a href="https://ankit-ankushe-portfolio.vercel.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio" /></a>
 </p>
  
