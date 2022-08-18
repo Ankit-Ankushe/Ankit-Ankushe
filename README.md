@@ -52,7 +52,8 @@ class Skills extends SoftwareDeveloper {
   <div>
    <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Ankit-Ankushe&show_icons=true&theme=radical" />
   <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-Ankushe&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit-Ankushe&theme=radical" alt="ankit-ankushe" />
   </div>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit-Ankushe&theme=radical" alt="ankit-ankushe" /></p>
+
