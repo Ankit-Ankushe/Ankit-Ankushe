@@ -29,8 +29,7 @@ class Skills extends SoftwareDeveloper {
   - 👨‍💻 All of my projects are available at [https://ankit-ankushe-portfolio.vercel.app/](https://ankit-ankushe-portfolio.vercel.app/)
 
   - 📫 How to reach me **ankitankushe@gmail.com**
-
-  - 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive)
+  
  </div>
 </div>
 <br/>
