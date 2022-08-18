@@ -20,7 +20,7 @@ class Skills extends SoftwareDeveloper {
 
 <div style="display:flex>
  <div style="display:flex>
-  <img style='margin:auto' width=400px src='https://c.tenor.com/kyeNs4DnuW0AAAAC/dev_animado.gif'/> 
+
  </div>
  <br/>
  <div>
