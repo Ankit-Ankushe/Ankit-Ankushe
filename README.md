@@ -34,7 +34,7 @@ class Skills extends SoftwareDeveloper {
  </div>
 </div>
 <br/>
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/ankitankushe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankitankushe" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ankit-ankushe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit-ankushe" height="30" width="40" /></a>
@@ -48,6 +48,11 @@ class Skills extends SoftwareDeveloper {
 
 <br/>
 <br/>
+ <h2> 🔥 Github Stats:</h2>
+  <div>
+   <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Ankit-Ankushe&show_icons=true&theme=radical" />
+  <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-Ankushe&layout=compact&theme=radical" />
+  </div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankit-ankushe&show_icons=true&locale=en&layout=compact" alt="ankit-ankushe" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankit-ankushe&show_icons=true&locale=en" alt="ankit-ankushe" /></p>
