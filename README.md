@@ -7,9 +7,9 @@
 ```js
 import SoftwareDeveloper from 'India';
 class Bio extends SoftwareDeveloper {
-  name     = 'Parag Tharani';
+  name     = 'Ankit Ankushe';
   title    = 'Software Engineer' || 'Full Stack Web Developer';
-  location = 'Indore, Madhya Pradesh, India';
+  location = 'Nagpur, Maharashtra , India';
   availability = "Available to hire!!";
 }
 class Skills extends SoftwareDeveloper {
