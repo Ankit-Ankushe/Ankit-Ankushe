@@ -17,49 +17,7 @@ class Skills extends SoftwareDeveloper {
   ui = ['Material-Ui', 'Styled-Components'];
 }
 ```
-<br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Parag-Tharani&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
-<a href="https://github.com/Parag-Tharani?tab=followers"><img src="https://img.shields.io/github/followers/Parag-Tharani?label=Followers&style=social" alt="GitHub Badge"></a>
-</p>
-</br>
 
-<!-- 👋 Hello World!, I’m @Parag-Tharani-> A Full Stack Web Developer -->
-- 👀 I’m interested in coding and exploring new technologies in Web 2 as well as in Web 3 ...
-- 🌱 I’m currently learning Web Development and UI/UX ... 
-- :mailbox:Let's Connect : [![Linkedin Badge](https://img.shields.io/badge/-ParagTharani-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/parag-tharani-184646222/) [![Gmail Badge](https://img.shields.io/badge/-ParagTharani24@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:ParagTharani24@gmail.com)
-  <br><br><br>
-  
-  
-  <h2> 🔥 Github Stats:</h2>
-  
-  <div>
-  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Parag-Tharani&show_icons=true&theme=radical" />
-  <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parag-Tharani&layout=compact&theme=radical" />
-  </div>
-  </br></br></br>
-
-
-  <h2>:bulb: Languages & Frameworks </h2>
-  <code><img title="HTML 5" alt="html5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
-  <code><img title="JavaScript" alt="javascript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
-  <code><img title="CSS 3" alt="css 3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
-  <code><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/></code>
-  <code><img title="ReactJS" alt="react js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
-  <code><img title="Redux" alt="node js" width="40px" src="https://blog.telexarsoftware.com/wp-content/uploads/2019/11/logo-redux.png" /></code>
-  <code><img title="Material UI" alt="node js" width="40px" src="https://mui.com/static/logo.png" /></code>
-  <code><img title="NodeJS" alt="node js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
-  <code><img title="ExpressJS" alt="node js" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" /></code>
-  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB"  alt="MySQL" width="40"     height="40"/></code>
-  
-  </br></br><br>
-
-
- <h2>Contribution Graph</h2>
-
-  <a href="https://github.com/Parag-Tharani"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Parag-Tharani&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a><br><br>
-<h1 align="center">Hi 👋, I'm Ankit Ankushe</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
-<br/>
 <div style="display:flex>
  <div style="display:flex>
   <img style='margin:auto' width=400px src='https://c.tenor.com/kyeNs4DnuW0AAAAC/dev_animado.gif'/> 
