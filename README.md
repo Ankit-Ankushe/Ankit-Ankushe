@@ -8,7 +8,6 @@ class Bio extends SoftwareDeveloper {
   name     = 'Ankit Ankushe';
   title    = 'Software Engineer' || 'Full Stack Web Developer';
   location = 'Maharasthra, India';
-  availability = "Available to hire!!";
 }
 class Skills extends SoftwareDeveloper {
   frontend  = ['JavaScript', 'HTML', 'CSS', 'React', 'Redux'];
