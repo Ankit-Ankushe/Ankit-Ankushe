@@ -21,7 +21,7 @@ class Skills extends SoftwareDeveloper {
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankit-ankushe" alt="ankit-ankushe" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://ankit-ankushe-portfolio.vercel.app/](https://ankit-ankushe-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [[https://ankit-ankushe-portfolio.vercel.app/](https://ankit-ankushe-software-developer.vercel.app/)]([https://ankit-ankushe-portfolio.vercel.app/](https://ankit-ankushe-software-developer.vercel.app/))
 
 - 📫 How to reach me **ankitankushe@gmail.com**
 
