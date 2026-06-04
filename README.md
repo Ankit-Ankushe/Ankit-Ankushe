@@ -24,13 +24,8 @@ class Skills extends SoftwareDeveloper {
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit-ankushe&label=Profile%20views&color=0e75b6&style=flat" alt="ankit-ankushe" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankit-ankushe" alt="ankit-ankushe" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [[https://ankit-ankushe-portfolio.vercel.app/](https://ankit-ankushe-software-developer.vercel.app/)]([https://ankit-ankushe-portfolio.vercel.app/](https://ankit-ankushe-software-developer.vercel.app/))
-
-- 📫 How to reach me **ankitankushe@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jb-NLq4PUvUlL_AShLIFFRhDWZrSFnkO/view?usp=sharing](https://drive.google.com/file/d/1jb-NLq4PUvUlL_AShLIFFRhDWZrSFnkO/view?usp=sharing)
+- 👨‍💻 Check out my projects on my **[Portfolio](https://ankit-ankushe-portfolio.vercel.app/)**
+- 📫 Reach me directly at **[ankitankushe@gmail.com](mailto:ankitankushe@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -74,12 +69,7 @@ class Skills extends SoftwareDeveloper {
 <br/>
 <h3 align="center">GitHub Stats & Activity</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankit-ankushe&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=ankit-ankushe&theme=tokyonight" alt="GitHub Streak" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankit-ankushe&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 <br/>
 <div align="center">
